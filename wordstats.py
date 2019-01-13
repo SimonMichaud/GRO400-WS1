@@ -12,5 +12,5 @@ if __name__ == "__main__":
 
     words = full_text.split()
 
-    print("Word count :", len(words))
+    print("Total word count :", len(words))
 
